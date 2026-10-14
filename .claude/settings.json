@@ -5,9 +5,29 @@
         "source": "github",
         "repo": "DietrichGebert/ponytail"
       }
+    },
+    "jaffskils": {
+      "source": {
+        "source": "github",
+        "repo": "jafforgehq/jaffskils"
+      }
     }
   },
   "enabledPlugins": {
-    "ponytail@ponytail": true
+    "ponytail@ponytail": true,
+    "rtk@jaffskils": true
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$CLAUDE_PROJECT_DIR\"/.claude/hooks/install-rtk.sh"
+          }
+        ]
+      }
+    ]
   }
 }
