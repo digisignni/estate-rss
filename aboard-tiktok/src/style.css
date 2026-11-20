@@ -1,0 +1,24 @@
+@import url("emoji.css");
+@font-face { font-family: 'Anton'; src: url("../assets/fonts/Anton.woff2") format("woff2"); font-weight: 400; font-display: block; }
+
+html, body { margin: 0; background: #000; }
+#stage { position: relative; width: 1080px; height: 1920px; overflow: hidden; background: #000; }
+.scene { position: absolute; inset: 0; overflow: hidden; display: none; }
+.photo, .sprite { position: absolute; left: 0; top: 0; transform-origin: 0 0; max-width: none; }
+.sign { position: absolute; left: 0; top: 0; width: 1080px; height: 1920px; transform-origin: 0 0; overflow: hidden; background: #000; }
+.sign > svg { position: absolute; left: 0; top: 0; }
+.sign-flash { position: absolute; inset: 0; background: #fff; opacity: 0; }
+/* glass: a soft diagonal reflection plus a darker rim where the panel meets the bezel */
+.sign-fx {
+  position: absolute; inset: 0;
+  background: linear-gradient(116deg, rgba(255,255,255,.17) 0%, rgba(255,255,255,.06) 26%, rgba(255,255,255,0) 44%, rgba(255,255,255,0) 72%, rgba(255,255,255,.07) 100%);
+  box-shadow: inset 0 0 0 3px rgba(0,0,0,.5), inset 0 0 70px rgba(0,0,0,.16);
+}
+.vignette { position: absolute; inset: 0; background: radial-gradient(ellipse 75% 62% at 50% 46%, rgba(0,0,0,0) 55%, rgba(0,0,0,.34) 100%); }
+.layer { position: absolute; left: 0; top: 0; transform-origin: 0 0; }
+/* sticker-style call-out used in the studio scenes */
+.tag {
+  position: absolute; left: 0; top: 0; white-space: nowrap; transform-origin: 50% 50%;
+  font: 400 84px/1 'Anton', 'Noto Color Emoji'; letter-spacing: .03em;
+  padding: 26px 50px 24px; border-radius: 999px; box-shadow: 0 14px 0 rgba(10,10,12,.9);
+}

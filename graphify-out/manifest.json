@@ -1,0 +1,260 @@
+{
+  ".claude/hooks/install-tools.sh": {
+    "mtime": 1795153908.1778548,
+    "seen": 1795157591.3775945,
+    "ast_hash": "3f47dffd05e465996a9f143e0488b506",
+    "semantic_hash": ""
+  },
+  ".claude/settings.json": {
+    "mtime": 1795153908.1778548,
+    "seen": 1795157591.3776023,
+    "ast_hash": "e7336f4f9b9723d1cdd8fa9d1ca9fdb1",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/build.sh": {
+    "mtime": 1795157066.5528073,
+    "seen": 1795157591.3776057,
+    "ast_hash": "1238aa3e03e73ae32d7e3f9bfd0007b7",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/src/data.js": {
+    "mtime": 1795156128.8617857,
+    "seen": 1795157591.3776073,
+    "ast_hash": "66eef8a57a034e316a92b59704f8ebcf",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/src/engine.js": {
+    "mtime": 1795155439.5617447,
+    "seen": 1795157591.3776088,
+    "ast_hash": "619fecd0740759334b20b72905b867eb",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/src/slides.js": {
+    "mtime": 1795157314.8359406,
+    "seen": 1795157591.3776097,
+    "ast_hash": "7dc99a8564e319f1e096fb057eb4d84a",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/src/timeline.js": {
+    "mtime": 1795157119.910424,
+    "seen": 1795157591.3776112,
+    "ast_hash": "0276703beff2d8b2d669dfb254688806",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/tools/audio.py": {
+    "mtime": 1795157119.9112077,
+    "seen": 1795157591.3776126,
+    "ast_hash": "60c5eac62fe929997a78d765a4bde161",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/tools/blend.py": {
+    "mtime": 1795156517.629076,
+    "seen": 1795157591.3776135,
+    "ast_hash": "830cd3e18daa6e79bf6541578ca7b0b0",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/tools/cutout.py": {
+    "mtime": 1795156043.5494788,
+    "seen": 1795157591.3776147,
+    "ast_hash": "004112b1a995050b72272a281ad05c8d",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/tools/pack_images.py": {
+    "mtime": 1795155590.3697953,
+    "seen": 1795157591.3776162,
+    "ast_hash": "784ba4e8684d980112d48867d334877e",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/tools/quad.py": {
+    "mtime": 1795155765.1510952,
+    "seen": 1795157591.3776174,
+    "ast_hash": "3c946e88f801198726dace68070b72b9",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/tools/render.js": {
+    "mtime": 1795156770.6794233,
+    "seen": 1795157591.3776183,
+    "ast_hash": "00f06c2f5b8951feaa2b6fb001d8f3c3",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/tools/sheet.py": {
+    "mtime": 1795155640.8864586,
+    "seen": 1795157591.3776195,
+    "ast_hash": "5e262a9314f72639710df570d4c24ad5",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/tools/strip.py": {
+    "mtime": 1795156310.707254,
+    "seen": 1795157591.3776202,
+    "ast_hash": "a3158dba1abd358347f6e632e8259519",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/tools/upscale.py": {
+    "mtime": 1795154800.921248,
+    "seen": 1795157591.3776214,
+    "ast_hash": "400f45d437c2e43d8a1bad5202d0efb6",
+    "semantic_hash": ""
+  },
+  ".claude/CLAUDE.md": {
+    "mtime": 1795153908.1773915,
+    "seen": 1795157591.3776224,
+    "ast_hash": "9b31786b637be3c13978bec4c2330752",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1795153908.1783116,
+    "seen": 1795157591.3776233,
+    "ast_hash": "67d88e9d0760c3ba54c75dfd9551c1c5",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/README.md": {
+    "mtime": 1795157579.0738719,
+    "seen": 1795157591.3776243,
+    "ast_hash": "0bc6b2f3423f9ad0b0787e6039ba9026",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/src/index.html": {
+    "mtime": 1795155590.3686526,
+    "seen": 1795157591.3776257,
+    "ast_hash": "17ef86dad056c1907c94ac3064ad47ea",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/assets/img/03_street_brick_keepleft.jpg": {
+    "mtime": 1795155590.7617538,
+    "seen": 1795157591.3776271,
+    "ast_hash": "6251626241a41b8cb3975c5a279fffcb",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/assets/img/06_street_hero_sky_su.jpg": {
+    "mtime": 1795155591.1177537,
+    "seen": 1795157591.3776278,
+    "ast_hash": "464fec7c460d42799e521f400c14bb3d",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/assets/img/07_grass_coffee.jpg": {
+    "mtime": 1795155591.3457537,
+    "seen": 1795157591.3776295,
+    "ast_hash": "a1cf7a7f30a099881d1f4ba6efe0b5f0",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/assets/img/08_city_steps.jpg": {
+    "mtime": 1795155591.5617537,
+    "seen": 1795157591.3776305,
+    "ast_hash": "27dbcf0fbb6042c7c8a3f12f9ca4acae",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/assets/img/09_kerb_icecream.jpg": {
+    "mtime": 1795155682.5417593,
+    "seen": 1795157591.3776312,
+    "ast_hash": "4ecdefbda13860bc2c9785da4055d34c",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/assets/img/10_grass_su.jpg": {
+    "mtime": 1795155682.7137592,
+    "seen": 1795157591.3776321,
+    "ast_hash": "226e81f94066647664fc4fa8718d537c",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/assets/img/cut_front.webp": {
+    "mtime": 1795156044.180882,
+    "seen": 1795157591.3776336,
+    "ast_hash": "41011534808bf1f3cb8ee5ab0a2270c6",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/assets/img/cut_rear.webp": {
+    "mtime": 1795156402.4237118,
+    "seen": 1795157591.3776345,
+    "ast_hash": "6b8c6a24a68ab119a32d00d89911a063",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/assets/img/cut_roller.webp": {
+    "mtime": 1795156403.498733,
+    "seen": 1795157591.3776352,
+    "ast_hash": "1ba0a45c0e4cbe0decfc61d9838ba9f8",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/out/digital_aboard_stop_scrolling_cover.jpg": {
+    "mtime": 1795157546.5046425,
+    "seen": 1795157591.3776364,
+    "ast_hash": "0b01fbfe12236e9a8661daaa533bf268",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/01_studio_frontleft_keepleft.jpg": {
+    "mtime": 1795154800.8977067,
+    "seen": 1795157591.3776374,
+    "ast_hash": "5333511d322460bb6c1f6078338aa6d4",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/02_studio_frontright_pool.jpg": {
+    "mtime": 1795154800.9030037,
+    "seen": 1795157591.3776383,
+    "ast_hash": "03d8629198111f3c24969e24d869b803",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/03_street_brick_keepleft.jpg": {
+    "mtime": 1795154800.9049966,
+    "seen": 1795157591.377639,
+    "ast_hash": "99cc1f294299aeee46098026a91313c1",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/04_studio_frontback_golf.jpg": {
+    "mtime": 1795154800.907037,
+    "seen": 1795157591.37764,
+    "ast_hash": "5131a7b8a42a8d1be62705a29b777dcd",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/05_studio_rear_battery.jpg": {
+    "mtime": 1795154800.9084322,
+    "seen": 1795157591.377641,
+    "ast_hash": "e4a167d12f99b889e59b90c826bc2090",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/06_street_hero_sky_su.jpg": {
+    "mtime": 1795154800.9098349,
+    "seen": 1795157591.377642,
+    "ast_hash": "ca1218fa973621cda9f50050fbb527b7",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/07_grass_coffee.jpg": {
+    "mtime": 1795154800.9119182,
+    "seen": 1795157591.3776429,
+    "ast_hash": "8c77ecd26a75fcd27abfb44804ace206",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/08_city_steps.jpg": {
+    "mtime": 1795154800.9138803,
+    "seen": 1795157591.3776438,
+    "ast_hash": "1cfbf53fcdd59f088fa519103d446c8b",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/09_kerb_icecream.jpg": {
+    "mtime": 1795154800.916112,
+    "seen": 1795157591.377645,
+    "ast_hash": "eca321056a65e7b23aadcf7037571bed",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/10_grass_su.jpg": {
+    "mtime": 1795154800.9182825,
+    "seen": 1795157591.3776464,
+    "ast_hash": "42d793ea540446d3f8f57436d1ceb0dd",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/photos/11_studio_front_icecream.jpg": {
+    "mtime": 1795154800.919938,
+    "seen": 1795157591.3776474,
+    "ast_hash": "567a17f40d77e5c534b6a2c8469d7004",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/out/digital_aboard_stop_scrolling.mp4": {
+    "mtime": 1795157523.2154248,
+    "seen": 1795157591.377648,
+    "ast_hash": "ab840ffacc3131b130f77aac5b8a5fcc",
+    "semantic_hash": ""
+  },
+  "aboard-tiktok/out/digital_aboard_stop_scrolling_sfx_only.mp4": {
+    "mtime": 1795157546.399126,
+    "seen": 1795157591.3776493,
+    "ast_hash": "08435f889eab11a2e663e14a4afdddd8",
+    "semantic_hash": ""
+  }
+}
